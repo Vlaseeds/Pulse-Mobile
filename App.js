@@ -96,7 +96,6 @@ export default function App() {
   
   const t = TRANSLATIONS[lang];
 
-  // Точечный контроль экрана: батарея скажет спасибо
   useEffect(() => {
     if (appState === 'VIEW_PULSE' || appState === 'VIEW_MAP') {
       activateKeepAwakeAsync();
@@ -155,7 +154,6 @@ export default function App() {
     if (event.nativeEvent.data === 'TAP') triggerControls();
   };
 
-  // true в конце addEventListener - режим "захвата". Теперь скролл карты не сожрет наш клик.
   const getInjectScript = () => `
     document.body.style.zoom = ${zoom};
     document.body.style.backgroundColor = '#000000';
