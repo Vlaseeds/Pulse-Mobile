@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
     "expo": "~57.0.20",
+    "expo-build-properties": "~57.0.17",
+    "expo-camera": "~57.0.4",
+    "expo-keep-awake": "~57.0.1",
     "expo-status-bar": "~57.0.1",
     "react": "19.2.3",
-    "react-native": "0.86.3"
+    "react-native": "0.86.3",
+    "react-native-webview": "13.16.1"
   },
   "scripts": {
     "start": "expo start",
