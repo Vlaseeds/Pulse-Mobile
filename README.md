@@ -5,7 +5,12 @@
   <a href="https://github.com/Vlaseeds/Pulse-Mobile/releases/latest">
     <img src="https://img.shields.io/github/v/release/Vlaseeds/Pulse-Mobile?style=for-the-badge&color=4ade80&label=LATEST%20APK" alt="Latest Release">
   </a>
-  <img src="https://img.shields.io/github/downloads/Vlaseeds/Pulse-Mobile/total?style=for-the-badge&color=4ade80" alt="Downloads">
+  <a href="https://github.com/Vlaseeds/Pulse-Mobile/releases">
+    <img src="https://img.shields.io/github/downloads/Vlaseeds/Pulse-Mobile/total?style=for-the-badge&color=4ade80" alt="Downloads">
+  </a>
+
+  <br><br>
+  <h2>📥 <a href="https://github.com/Vlaseeds/Pulse-Mobile/releases/latest">DOWNLOAD LATEST RELEASE (.APK)</a> 📥</h2>
 </div>
 
 <br>
@@ -21,7 +26,7 @@
 
 A native Android companion app for the **Pulse Pad** desktop server. Built to eliminate browser borders, hide system navigation, and deliver a clean, fullscreen tactical UI for your Project Zomboid survival.
 
-> ⚠️ **Important note:** Pulse Mobile is an add-on, not a standalone app. It strictly requires the main **Pulse Pad** server to be running on your PC. You can get the desktop version 👉 **[here](https://github.com/Vlaseeds/Pulse-Pad)**.
+> ⚠️ **Important note:** Pulse Mobile is an add-on, not a standalone app. It strictly requires the main **Pulse Pad** server to be running on your PC. You can get the desktop version 👉 **[here](https://github.com/Vlaseeds/Pulse-Pad/releases/latest)**.
 >
 > 🍏 **iOS Users:** This native app is designed exclusively for Android. If you use an iPhone or iPad, please use the standard browser method via Safari.
 
@@ -54,7 +59,7 @@ All rights to the original modifications belong to their respective creators:
 * 🗺️ **[PZ Map (Interactive Map)](https://steamcommunity.com/sharedfiles/filedetails/?id=3770149036)**
 
 ---
-🐞 *Spotted a bug or have a suggestion? Drop a ticket in the **[Issues](../../issues)** tab.*
+🐞 *Spotted a bug or have a suggestion? Drop a ticket in the **[Issues](https://github.com/Vlaseeds/Pulse-Mobile/issues)** tab.*
 </details>
 
 <details>
@@ -63,7 +68,7 @@ All rights to the original modifications belong to their respective creators:
 
 Нативний Android-додаток для роботи в зв'язці з десктопним сервером **Pulse Pad**. Створений для того, щоб прибрати рамки браузера, сховати системну навігацію і надати гравцеві чистий, повноекранний тактичний інтерфейс для виживання в Project Zomboid.
 
-> ⚠️ **Важлива примітка:** Pulse Mobile — це додаток-компаньйон, а не самостійна програма. Для його роботи обов'язково потрібен запущений сервер **Pulse Pad** на вашому ПК. Завантажити десктопну версію можна 👉 **[тут](https://github.com/Vlaseeds/Pulse-Pad)**.
+> ⚠️ **Важлива примітка:** Pulse Mobile — це додаток-компаньйон, а не самостійна програма. Для його роботи обов'язково потрібен запущений сервер **Pulse Pad** на вашому ПК. Завантажити десктопну версію можна 👉 **[тут](https://github.com/Vlaseeds/Pulse-Pad/releases/latest)**.
 >
 > 🍏 **Користувачам iOS:** Цей нативний додаток створено виключно для Android. Якщо у вас iPhone або iPad, використовуйте стандартний метод гри через браузер Safari.
 
@@ -96,7 +101,7 @@ All rights to the original modifications belong to their respective creators:
 * 🗺️ **[PZ Map (Interactive Map)](https://steamcommunity.com/sharedfiles/filedetails/?id=3770149036)**
 
 ---
-🐞 *Знайшли баг чи є ідея для покращення? Пишіть у розділ **[Issues](../../issues)**.*
+🐞 *Знайшли баг чи є ідея для покращення? Пишіть у розділ **[Issues](https://github.com/Vlaseeds/Pulse-Mobile/issues)**.*
 </details>
 
 <details>
@@ -105,7 +110,7 @@ All rights to the original modifications belong to their respective creators:
 
 Нативное Android-приложение для работы в связке с десктопным сервером **Pulse Pad**. Создано для того, чтобы убрать рамки браузера, скрыть системную навигацию и дать игроку чистый, полноэкранный тактический интерфейс для выживания в Project Zomboid.
 
-> ⚠️ **Важное примечание:** Pulse Mobile — это приложение-компаньон, а не самостоятельная программа. Для его работы обязательно нужен запущенный сервер **Pulse Pad** на вашем ПК. Скачать десктопную версию можно 👉 **[здесь](https://github.com/Vlaseeds/Pulse-Pad)**.
+> ⚠️ **Важное примечание:** Pulse Mobile — это приложение-компаньон, а не самостоятельная программа. Для его работы обязательно нужен запущенный сервер **Pulse Pad** на вашем ПК. Скачать десктопную версию можно 👉 **[здесь](https://github.com/Vlaseeds/Pulse-Pad/releases/latest)**.
 >
 > 🍏 **Пользователям iOS:** Это нативное приложение создано эксклюзивно для Android. Если у вас iPhone или iPad, используйте стандартный метод через браузер Safari.
 
@@ -127,7 +132,7 @@ All rights to the original modifications belong to their respective creators:
 1. Нажмите на ссылку скачивания выше и сохраните файл `.apk`.
 2. Установите на свой Android-смартфон (разрешите установку из неизвестных источников).
 3. Запустите **Pulse Pad** на компьютере.
-4. Следуйте инструкции на экране смартфона для сканирования QR-кодов.
+4. Следуйте инструкциям на экране смартфона для сканирования QR-кодов.
    * *Совет: Если камера отказывается сканировать код, нажмите кнопку "⌨️ ВВЕСТИ ВРУЧНУЮ", чтобы переписать IP-адрес из программы на ПК.*
 
 ### ⚖️ Дисклеймер и Благодарности
@@ -138,7 +143,7 @@ All rights to the original modifications belong to their respective creators:
 * 🗺️ **[PZ Map (Interactive Map)](https://steamcommunity.com/sharedfiles/filedetails/?id=3770149036)**
 
 ---
-🐞 *Нашли баг или есть идея для улучшения? Смело заводите тикет во вкладке **[Issues](../../issues)**.*
+🐞 *Нашли баг или есть идея для улучшения? Смело заводите тикет во вкладке **[Issues](https://github.com/Vlaseeds/Pulse-Mobile/issues)**.*
 </details>
 
 <br>
