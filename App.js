@@ -438,8 +438,7 @@ export default function App() {
                 </View>
               )}
             />
-            
-            {/* Единый контейнер для элементов управления снизу слева */}
+
             <View style={styles.bottomControls}>
               <TouchableOpacity style={styles.bottomBackFab} onPress={() => setAppState('HOME')}>
                 <View style={styles.customBackArrow} />
