@@ -2,7 +2,7 @@
   "expo": {
     "name": "Pulse Mobile",
     "slug": "pulse-mobile",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#050505"
-      }
+      },
+      "package": "com.vlaseeds.pulsemobile"
     },
     "plugins": [
       [
@@ -30,6 +31,11 @@
           }
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "3e68fe49-bdb1-4674-b0bf-a10d884f8d29"
+      }
+    }
   }
 }
